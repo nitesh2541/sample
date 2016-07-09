@@ -4,9 +4,11 @@
 <AppModule
   xmlns="http://xmlns.oracle.com/bc4j"
   Name="AppModuleAM"
-  Version="12.2.1.1.21"
-  InheritPersonalization="merge"
+  Version="11.1.1.64.93"
   ClearCacheOnRollback="true">
+  <DesignTime>
+    <Attr Name="_deployType" Value="0"/>
+  </DesignTime>
   <ViewUsage
     Name="Departments1"
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
@@ -24,5 +26,14 @@
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
   <ViewUsage
     Name="Departments6"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments7"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments8"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments9"
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
 </AppModule>
