@@ -36,4 +36,10 @@
   <ViewUsage
     Name="Departments9"
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments10"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments11"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
 </AppModule>
