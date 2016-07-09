@@ -16,4 +16,13 @@
   <ViewUsage
     Name="Departments3"
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments4"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments5"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
+  <ViewUsage
+    Name="Departments6"
+    ViewObjectName="model.bc.vo.DepartmentsVO"/>
 </AppModule>
