@@ -10,7 +10,7 @@
     <Attr Name="_deployType" Value="0"/>
   </DesignTime>
   <ViewUsage
-    Name="Depart"
+    Name="Depa"
     ViewObjectName="model.bc.vo.DepartmentsVO"/>
   <ViewUsage
     Name="Departments2"
